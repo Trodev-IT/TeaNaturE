@@ -91,6 +91,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+
 }
 
 .cover .text .text-1,
@@ -100,6 +101,7 @@ body {
   color: #fff;
   text-align: center;
   backface-visibility: hidden;
+
 }
 
 .cover .back .text .text-1,
